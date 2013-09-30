@@ -1,0 +1,57 @@
+I'm going to talk with you for a few minutes today about the Stanford Digital Repository, affectionately known in the acronymic ways of Stanford as the SDR.
+
+I'll begin by telling you a few quick stories -- true stories -- about some Stanford scientists and their data.
+
+The first story is about David Donoho, a professor of Statistics, and his graduate students Hatef and Matan. They were publishing a paper in PNAS, and the journal was requiring that they also make available online supplementary data that supported the results in the paper. David and Hatef and Matan were happy to provide these data files and even the code that had been written for this project, however, the journal did not provide any way to do this. And so Hatef went looking for a solution for publishing their supplementary data. And after a Google search and a chat with my colleague Tom Cramer and me he discovered that....the SDR can do that.
+
+This is a story of forbidden access....and Malin Pinsky, a former Stanford researcher who is now at Princeton. Once upon a time (in 2009) he published an article in Conservation Biology. In that article he made reference to some additional data sets that he made available online. The problem came when he left Stanford a couple of years later, and the data suddenly became inaccessible because where he had published it was in his AFS space. And everyone who tried to reach that data saw only this. He began a search for a way to make the data accessible again. And you know what he found? That the SDR can do that.
+
+Folding@home is a long-running project, well-known at Stanford and beyond. They have built software that allows anyone, anywhere in the world, to do protein folding calculations on the spare cycles on their computers. All that data is then compiled and analyzed here at Stanford. Over the years that this project has been running, you can imagine, that they have compiled a huge amount of data, that they are interested in making easily discoverable by researchers anywhere. The SDR can do that.
+
+Gretchen Daily and her research associate Juan Cueva use electron microscopy to study the neurobiology of the worm C. elegans. They have collected 1000s of images like these that are information-rich, storage-intensive, and hard for others to access. Gretchen and Juan have published everything they are going to publish from these images, but they feel there is a lot more to learn from studying them, so they would like to share these data for others to use. The SDR can do that.
+
+Researchers at Hopkins Marine Station have been involved in many long-term monitoring projects. Some of these projects have been going on for close to 100 years. This is a weather station where they measure things like wind, precipitation, and temperature every 10 minutes, every day of the year. 
+They also monitor a variety of marine populations, like the sea stars shown here, kelp, and marine mammal populations like harbor seals, sea otters, and sea lions. Because these data provide insight into broad topics like climate change, and  - because of their historical nature - they can't be replicated, it's important that they be preserved for use by other researchers in the future. And you probably know by now that....the SDR can do this too.
+
+The question then is, How does the SDR do all of these things?
+This is the answer. The persistent URL, or PURL. When you deposit data into the SDR you get a persistent URL at which that data can always be accessed. Always.
+
+Here's what a PURL page for a data deposit looks like. What you see here basically reflects the information that you are required to provide when you deposit data via our self-deposit web interface: authors or contributors to the work, a description of the data, how you would like these data to be cited, any associated publications, who to contact about the data, and any other related links. Then there is a list files that can be downloaded with descriptions. You also have options to choose an embargo period, assign a license, and decide whether you want the PURL page to be visible to anyone in the world or just Stanford.
+
+We consider this a lightweight approach to meeting NSF requirements for data sharing and preservation. It’s easy to do, takes just a few minutes, and then we take care of it for you. And it will also help you add value to your publications by providing a persistent link to supporting data, which can itself be cited and may help boost your citation rate.
+
+And I'm hoping your next question is, How do I get a PURL page for my data? It's very easy. Just three steps.
+
+Step one. Email me. Access to the web-based self-deposit interface is via your SUNet ID, however, it is currently gated, so I need to specifically give you access. You also may need to talk with me about what kind of data you have and how you want to organize it, because it could make a difference with regard to whether you have access just to create PURL pages or whether you can create an entire collection. I'm also available for instruction and help on using the interface.
+
+Step two. Go to sdr.stanford.edu. Here you can create a new item, upload your files, and describe the data. What you saw on the screen shot is what you will need to provide. You will also at this point agree to the terms of deposit.
+
+Step three. Publish. Easy as that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's the story of a scientist and his data.

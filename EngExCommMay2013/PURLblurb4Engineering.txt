@@ -1,0 +1,6 @@
+The Stanford Digital Repository (SDR), a content-agnostic digital preservation system run by Stanford Libraries, is now accepting data from Stanford researchers for preservation and sharing. The SDR is a lightweight approach to meeting NSF and other funding agency requirements for data sharing and preservation.
+
+When you deposit data into the SDR you receive a persistent URL at which your data can always be accessed. To deposit your data you simply upload your files via our web-based, self-deposit interface at sdr.stanford.edu, enter a minimal amount of descriptive information, and publish the files. You also have options to choose an embargo period, assign a license, and decide whether you want anyone in the world to be able to view your data, or just Stanford.
+
+Access is via SUNet ID but is currently gated as we are not yet ready for widespread release. At this time you will need to contact Amy Hodge, Science Data Librarian, at amyhodge@stanford.edu or 650-556-5194 to obtain permission to deposit data. Anyone with a SUNet ID, including students and administrative staff, can use the self-deposit interface.
+
